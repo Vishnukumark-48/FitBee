@@ -1,0 +1,189 @@
+.header-container {
+    background-color: #0c0c0c;
+    padding: 0px;
+    display: flex;
+    align-items: center;
+    height: 50px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    z-index: 1000;
+}
+.logo {
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+    margin-left: 15px;
+}
+
+.site-title {
+    color: white;
+    font-size: 22px;
+    font-weight: bolder;
+    margin: 0;
+}
+
+.nav-links {
+    margin-left: 35px;
+}
+
+.nav-links a {
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    text-decoration: auto;
+    margin: 0 15px;
+    font-size: 13px;
+}
+
+.nav-links a:hover {
+    text-decoration: underline;
+}
+
+.profile {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    right: 15px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+
+
+.section-container {
+    padding: 0px 0px;
+    min-height: 100vh;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    margin: 0;
+    position: relative;
+}
+
+.image-container {
+    width: 100%;
+    height: 100%;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.image-container img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+
+.section-container {
+    position: relative;
+
+}
+
+.button-common {
+    padding: 12px 24px;
+    background-color: #ec2828; 
+    color: #ffffff; 
+    border: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    cursor: pointer;
+    font-size: 20px;
+    text-decoration: none;
+    transform: scale(1.05);
+    border-radius: 6px; 
+    transition:ease-in-out;
+}
+
+.button-common:hover {
+    background-color: #ff6666; 
+}
+
+.join-now-button {
+    position: absolute;
+    bottom: 90px; 
+    left: 23%; 
+    
+}
+.section-container {
+    padding: 0;
+    margin: 0;
+    
+  }
+
+  .plansection-container {
+    padding: 0;
+    margin: 0px;
+    margin-top: 0;
+
+  }
+  
+  .image-container img {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+  .plan-container{
+    display:flex;
+    width:100%;
+   
+    margin-top:163px;
+
+
+  }
+  .join-now-button {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+
+  .footer-section-container {
+    padding: 0px 0; 
+    padding: 0px 0px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    margin: 0;
+    position: relative;
+  }
+
+  .profile {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    right: 15px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.icon-button {
+    width: 27px;
+    height: 25px;
+    position: absolute;
+    right: 55px;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    padding: 0;
+}
+
+.icon-button img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.icon-button:hover {
+    background-color: transparent; 
+    border-radius: 50%; 
+}

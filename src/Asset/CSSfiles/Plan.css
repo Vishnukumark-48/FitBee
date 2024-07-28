@@ -1,0 +1,61 @@
+.plan-container {
+  display: flex;
+  flex-direction: row; 
+  flex-wrap: wrap; 
+  justify-content: center; 
+  align-items: center;
+  padding: 0px 0px;
+  min-height: 100vh;
+  text-align: center;
+  overflow: hidden;
+  margin: 0;
+  position: relative;
+  background-image: url('../images/plan.png'); 
+  background-size: cover; 
+  background-position: center; 
+}
+
+.subscriptions-heading {
+  color: #fff;
+  margin-top: 20px; 
+  font-size: 2.5rem; 
+  width: 100%; 
+  text-align: center; 
+}
+
+.plan-card {
+  background: #34373f; 
+  border-radius: 10px;
+  padding: 50px;
+  width: 200px; 
+  margin: 30px; 
+  box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+  margin-bottom: 50px;
+}
+
+.plan-card h2 {
+  color: #fff;
+  font-size: 24px;
+}
+
+.price {
+  color: #fff;
+  font-size: 24px; 
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  color: #fff;
+  font-size: 18px;
+}
+
+.not-included {
+  color: #d9534f; 
+}
+
+.plan-card:hover {
+  transform: translateY(-5px);
+}
