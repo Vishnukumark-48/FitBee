@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/FitBee-ReactProject/static/css/main.21aab20e.css",
+    "main.js": "/FitBee-ReactProject/static/js/main.749a071e.js",
+    "static/js/453.cbbcd9d1.chunk.js": "/FitBee-ReactProject/static/js/453.cbbcd9d1.chunk.js",
+    "static/media/routine3.png": "/FitBee-ReactProject/static/media/routine3.f3988ef47efb5bacde3f.png",
+    "static/media/routine.png": "/FitBee-ReactProject/static/media/routine.c41883837eb2c221eaaa.png",
+    "static/media/homeimage.png": "/FitBee-ReactProject/static/media/homeimage.308db7f8116229d1deb5.png",
+    "static/media/plan.png": "/FitBee-ReactProject/static/media/plan.bbb42c558a745d520002.png",
+    "static/media/profile1.png": "/FitBee-ReactProject/static/media/profile1.01e62194558b1aa2bab0.png",
+    "static/media/dumbbell.png": "/FitBee-ReactProject/static/media/dumbbell.0ac15bdeb727cf9ce105.png",
+    "index.html": "/FitBee-ReactProject/index.html",
+    "main.21aab20e.css.map": "/FitBee-ReactProject/static/css/main.21aab20e.css.map",
+    "main.749a071e.js.map": "/FitBee-ReactProject/static/js/main.749a071e.js.map",
+    "453.cbbcd9d1.chunk.js.map": "/FitBee-ReactProject/static/js/453.cbbcd9d1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21aab20e.css",
+    "static/js/main.749a071e.js"
+  ]
+}
