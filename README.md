@@ -1,3 +1,29 @@
+#FitBee-ReactProject
+Welcome to the FitBee React Project, an online fitness application designed to provide a user-friendly platform to learn and enjoy fitness activities.
+
+##Home page
+![image](https://github.com/user-attachments/assets/caf652fc-24fc-48a5-8066-6f169fd17e1d)
+
+##Login Page
+![image](https://github.com/user-attachments/assets/d12f7a3f-42f5-456f-8d80-b3ef6edfc018)
+
+##Get Started
+![image](https://github.com/user-attachments/assets/6f18282e-4f00-4c54-80e2-2d9d84a32aa9)
+
+##Routines
+![image](https://github.com/user-attachments/assets/022a56fd-c2ba-408c-ba14-e3a3d7637f59)
+
+##Plans
+![image](https://github.com/user-attachments/assets/8a3d232b-8464-4e8b-96d5-f4b98e2574a6)
+
+##Testimonials
+![image](https://github.com/user-attachments/assets/a08ac7b5-5641-40c4-9bfb-1b6a30854148)
+
+##About Page
+![image](https://github.com/user-attachments/assets/039ae180-8d23-4805-a265-eb571ca34f02)
+
+-----------------------------------------------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
